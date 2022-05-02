@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi, I'm Nicolás 👋
+![me](https://user-images.githubusercontent.com/86533326/166317407-15dbcf05-ebd4-4633-a2b5-8aef56da9d52.png)
 <!--
 **xNoix/xNoix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
