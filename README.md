@@ -14,6 +14,10 @@ const Nicolas = {
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nicol%c3%a1s-cofr%c3%a9-46b211220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nicol%c3%a1s-cofr%c3%a9-46b211220/" height="30" width="40" /></a>
 </p>
 
+<h2 align="left">Github Stats</h2>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xnoix&show_icons=true&locale=en" alt="xnoix" /></p>
+
 <h2 align="left">Skills</h3>
 
 <h3 align="left">Tools:</h3>
