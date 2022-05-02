@@ -7,6 +7,13 @@ const Nicolas = {
   passions: ['web development','blockchain']
 }
 ```
+<h2 align="left">Connect with me:</h2>
+
+<p align="left">
+<a href="https://twitter.com/@nicolascofre221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@nicolascofre221" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/nicol%c3%a1s-cofr%c3%a9-46b211220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nicol%c3%a1s-cofr%c3%a9-46b211220/" height="30" width="40" /></a>
+</p>
+
 <h2 align="left">Skills</h3>
 
 <h3 align="left">Tools:</h3>
