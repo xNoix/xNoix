@@ -1,5 +1,5 @@
 ### Hi, I'm Nicolás 👋
-![me](https://user-images.githubusercontent.com/86533326/166317407-15dbcf05-ebd4-4633-a2b5-8aef56da9d52.png)
+![github](https://user-images.githubusercontent.com/86533326/222330841-14ba4ce1-27af-4626-b442-09cdd4492e65.jpg)
 
 ```js
 const Nicolas = {
